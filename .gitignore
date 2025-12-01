@@ -45,3 +45,8 @@ Thumbs.db
 
 # celery beat schedule
 celerybeat-schedule
+
+
+
+samples/
+uploads/raw/*
