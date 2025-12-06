@@ -1,6 +1,6 @@
-1. LISTS
-2. TUPLES
-3. DICTIONARIES
+1. LISTS                                      Done
+2. TUPLES                                     In-Progress
+3. DICTIONARIES                               ------------
 4. SETS
 5. STRINGS
 6. COLLECTIONS
@@ -21,5 +21,8 @@
 
 
 Reference 
-Youtube channel: Patrick Loeber
+Youtube channel: 
+    Patrick Loeber 
+    url: https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2
+
 
