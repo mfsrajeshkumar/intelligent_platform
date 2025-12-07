@@ -177,20 +177,35 @@ print("squares", squares)
 
 
 """
-Python lists, which are mutable ordered sequences of items, come with a variety of built-in methods for manipulation and interaction. 
+Python lists, which are mutable ordered sequences of items, 
+come with a variety of built-in methods for manipulation and interaction. 
 Here are some of the most commonly used list methods: 
+
 append(element): Adds a single element to the end of the list.
+
 clear(): Removes all elements from the list, making it empty.
+
 copy(): Returns a shallow copy of the list.
+
 count(value): Returns the number of times a specified value appears in the list.
-extend(iterable): Adds all elements from an iterable (like another list, tuple, or string) to the end of the current list.
-index(value, start, end): Returns the index of the first occurrence of a specified value within the optional start and end indices. 
-Raises a ValueError if the value is not found.
+
+extend(iterable): Adds all elements from an iterable (like another list, tuple, or string) 
+    to the end of the current list.
+
+index(value, start, end): Returns the index of the first occurrence of a specified value 
+    within the optional start and end indices. Raises a ValueError if the value is not found.
+
 insert(index, element): Inserts an element at a specified index within the list.
-pop(index): Removes and returns the element at the specified index. If no index is provided, it removes and returns the last element.
-remove(value): Removes the first occurrence of a specified value from the list. Raises a ValueError if the value is not found.
+
+pop(index): Removes and returns the element at the specified index. If no index is provided, 
+    it removes and returns the last element.
+
+remove(value): Removes the first occurrence of a specified value from the list. 
+    Raises a ValueError if the value is not found.
+
 reverse(): Reverses the order of the elements in the list in place.
-sort(key=None, reverse=False): Sorts the elements of the list in place. By default, it sorts in ascending order. 
+sort(key=None, reverse=False): Sorts the elements of the list in place. 
+    By default, it sorts in ascending order. 
 You can customize the sorting with the key argument (for custom sorting logic) and reverse=True for descending order.
 """
 
