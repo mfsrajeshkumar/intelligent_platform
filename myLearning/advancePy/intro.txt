@@ -26,3 +26,6 @@ Youtube channel:
     url: https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2
 
 
+https://www.python-engineer.com/courses/advancedpython/11-json/
+
+
